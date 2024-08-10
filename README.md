@@ -5,12 +5,18 @@ Projeto Parceria Ebac Uso de Regressão Linear
 ## Índice
 
 1.Introdução Projeto Parceria;
+
 2.Coleta dos Dados;
-3.Análise Exploratória.
+
+3.Análise Exploratória;
+
 4.Manipulação;
+
 5.Machine Learning;
+
 6.Visualização;
-6.Storytelling.
+
+7.Storytelling.
 
 ## Descrição
 
